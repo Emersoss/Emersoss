@@ -27,15 +27,10 @@ RevOps             →  ETL · Churn prediction · LTV · CAC · Funil de receit
 
 ## Projetos
 
-> Portfólio em construção — commits chegando em breve.
+**[python-claudecode-quiz](https://github.com/Emersoss/python-claudecode-quiz)** · [demo ao vivo](https://quiz-claudecode-python.vercel.app)
+Quiz interativo de Verdadeiro/Falso sobre Python e Claude Code — Next.js 14, TypeScript, Tailwind CSS. Timer por pergunta, feedback explicativo e placar com breakdown por categoria.
 
-| Projeto | O que resolve | Stack |
-|---------|---------------|-------|
-| 🔧 `revops-data-pipeline` | Pipeline ETL completo: CRM → BigQuery → dashboard de métricas RevOps | Python · BigQuery · Looker Studio |
-| ⚡ `n8n-revops-automation` | Triagem de leads e health score de CS automatizados com IA | n8n · GPT-4o · Webhook |
-| 🤖 `rag-cs-agent` | Agente de atendimento CS com knowledge base customizada e deploy ao vivo | Python · Supabase · OpenAI · Vercel |
-| 📈 `saas-churn-predictor` | Predição de churn end-to-end: feature engineering → ML → score por cliente | Python · scikit-learn · BigQuery |
-| 📁 `excel-to-bigquery` | Migra planilhas grandes (150MB+) para BigQuery — do Excel para cloud em minutos | Python · Pandas · BigQuery |
+> Mais projetos em andamento: pipeline ETL RevOps, automação n8n + IA, agente RAG para CS.
 
 ---
 
