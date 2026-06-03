@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Analista+de+Dados+%7C+Revenue+Operations;Automações+com+n8n+%2B+Python+%2B+BigQuery;Agentes+de+IA+%7C+RAG+%7C+Pipelines;5+anos+de+CS+%2B+Dados+%3D+Olhar+Diferente" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Analista+de+Dados+%7C+Revenue+Operations;Automa%C3%A7%C3%B5es+com+n8n+%2B+Python+%2B+BigQuery;Agentes+de+IA+%7C+RAG+%7C+Pipelines;5+anos+de+CS+%2B+Dados+%3D+Olhar+Diferente" alt="Typing SVG" />
 </div>
 
 ---
